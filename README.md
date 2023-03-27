@@ -1,5 +1,4 @@
-# Team BCIT WTW
-<Introduction text here>
+# Team BCIT WTW Introduction
 
 # Team
 - Junior Thiensirisak
