@@ -2,6 +2,6 @@
 <Introduction text here>
 
 # Team
-*Junior Thiensirisak
-*Anthony Wong
-*Michael Wong
+-Junior Thiensirisak
+-Anthony Wong
+-Michael Wong
