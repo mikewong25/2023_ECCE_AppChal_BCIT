@@ -1,4 +1,4 @@
-# Team name here
+# Team GeoJAM
 ## Team Member Bios
 **Michael Wong:** I am currently enrolled in BCIT’s GIS Advanced Diploma Program and graduated with a BSc in environmental science from SFU. I most recently worked in the environmental consulting industry but decided to pivot into GIS as it was something that interested me during my undergrad and I enjoyed making maps and diagrams for environmental reports. As part of BCIT’s program, I am working on a project for a non profit conservation organization that involves conducting analyses on ecological observations located on or near the organizations conservation properties. I hope to continue to use GIS to work on environmentally related projects in the future. My hobbies include playing ice hockey and video games.
 
