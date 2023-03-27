@@ -1,14 +1,14 @@
 # Team BCIT WTW Introduction
 
-# Team
+## Team
 - Junior Thiensirisak
 - Anthony Wong
 - Michael Wong
   
-# About our App
+## About our App
 
-# Mission Statement
+## Mission Statement
   
-# Geospatial Open Data Sources
+## Geospatial Open Data Sources
   
-# References
+## References
