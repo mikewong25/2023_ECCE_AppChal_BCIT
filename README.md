@@ -1,6 +1,7 @@
 # Team BCIT WTW
 <Introduction text here>
-#Team
+
+# Team
 *Junior Thiensirisak
 *Anthony Wong
 *Michael Wong
