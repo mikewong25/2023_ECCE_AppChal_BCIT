@@ -5,9 +5,9 @@
 - Anthony Wong
 - Michael Wong
   
+## Mission Statement  
+  
 ## About our App
-
-## Mission Statement
   
 ## Geospatial Open Data Sources
   
