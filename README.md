@@ -23,7 +23,7 @@ Table 1. Geospatial datasets used in analysis
 | Species at Risk (Critical Habitat) | <a href="https://open.canada.ca/data/en/dataset/47caa405-be2b-4e9e-8f53-c478ade2ca74">Environment and Climate Change Canada</a> | Polygon |
 | Species Richness | See Table 2. Observation Datasets | Point/Polygon |
 | Rivers | <a href="https://catalogue.data.gov.bc.ca/dataset/freshwater-atlas-rivers">GeoBC</a> | Polygon |
-| Wetlands | datasource | Polygon |
+| Wetlands | <a href="https://catalogue.data.gov.bc.ca/dataset/freshwater-atlas-wetlands">GeoBC</a> | Polygon |
 
 Table 2. Observation Datasets
 | <b>Dataset</b> | <b>Data Source</b> | <b>Data Type</b>
