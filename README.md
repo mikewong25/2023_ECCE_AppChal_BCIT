@@ -28,15 +28,15 @@ Table 1. Geospatial datasets used in analysis
 Table 2. Observation Datasets
 | <b>Dataset</b> | <b>Data Source</b> | <b>Data Type</b>
 | --- | --- | --- |
-| BC Species List | datasource | Table |
-| iNaturalist Observations | datasource | Point |
-| SPI Masked Survey Observations - Publicly Available | datasource | Polygon |
-| SPI Survey Observations - Non-Sensitive | datasource | Point |
-| SPI Masked Feature Observations - Publicly Available | datasource | Polygon |
-| SPI Feature Observations (Wildlife Habitat Features - FRPA) | datasource | Point |
-| SPI Incidental Observations - Non-Secured | datasource | Point |
-| SPI Incidental Observations - Non-Sensitive | datasource | Point |
-| CDC Element Occurrences: Species and Ecosystems at Risk - Publicly Available Occurrences | datasource | Polygon |
-| CDC Element Occurrences: Species and Ecosystems at Risk (Masked Secured) | datasource | Polygon |
+| BC Species List | <a href="https://www2.gov.bc.ca/gov/content/environment/plants-animals-ecosystems/conservation-data-centre/explore-cdc-data/species-and-ecosystems-explorer">BC Conservation Data Centre</a> | Table |
+| iNaturalist Observations | <a href="https://inaturalist.ca/observations">iNaturalist</a> | Point |
+| SPI Masked Survey Observations - Publicly Available | <a href="https://catalogue.data.gov.bc.ca/dataset/wildlife-species-inventory-masked-survey-observations-publicly-available">Ministry of Environment and Climate Change Strategy</a> | Polygon |
+| SPI Survey Observations - Non-Sensitive | <a href="https://catalogue.data.gov.bc.ca/dataset/wildlife-species-inventory-survey-observations-non-sensitive">Ministry of Environment and Climate Change Strategy</a> | Point |
+| SPI Masked Feature Observations - Publicly Available | <a href="https://catalogue.data.gov.bc.ca/dataset/wildlife-species-inventory-masked-feature-observations-publicly-available">Ministry of Environment and Climate Change Strategy</a> | Polygon |
+| SPI Feature Observations (Wildlife Habitat Features - FRPA) | <a href="https://catalogue.data.gov.bc.ca/dataset/wildlife-habitat-features-frpa">Ministry of Environment and Climate Change Strategy</a> | Point |
+| SPI Incidental Observations - Non-Secured | <a href="https://catalogue.data.gov.bc.ca/dataset/wildlife-species-inventory-incidental-observations-non-secured">Ministry of Environment and Climate Change Strategy</a> | Point |
+| SPI Incidental Observations - Non-Sensitive | <a href="https://catalogue.data.gov.bc.ca/dataset/wildlife-species-inventory-telemetry-observations-non-sensitive">Ministry of Environment and Climate Change Strategy</a> | Point |
+| CDC Element Occurrences: Species and Ecosystems at Risk - Publicly Available Occurrences | <a href="https://catalogue.data.gov.bc.ca/dataset/species-and-ecosystems-at-risk-publicly-available-occurrences-cdc">BC Conservation Data Centre</a> | Polygon |
+| CDC Element Occurrences: Species and Ecosystems at Risk (Masked Secured) | <a href="https://catalogue.data.gov.bc.ca/dataset/species-and-ecosystems-at-risk-masked-secured-publicly-available-occurrences-cdc">BC Conservation Data Centre</a> | Polygon |
 
 ## References
