@@ -6,7 +6,10 @@
 - Michael Wong
   
 ## Mission Statement  
-  
+On December 9, 2022, the federal government of Canada set a goal of conserving 30 percent of the country’s land and water by 2030. Canada has conserved or protected 13.6% of its land (equivalent to 1,355,029 km2) and 14.6% of its water (842,828 km2) by area as of December 2022. Therefore, in the next seven years, Canada will need to protect an additional 16.4% of its land (1,637,486 km2) and 15.4% of its water (or 885,500 km2) to meet its conservation goals.
+
+GeoJAM’s mission is to assist decision makers, organizations, and conservationists in finding and prioritizing terrestrial areas for conservation. Our app, Conservation Suitability Explorer, is an interactive and visual information product that presents map layers that can be used to inform conservation efforts in British Columbia. Although this project focuses on the province of British Columbia, our ideas and methods could be adapted to the entirety of Canada as well as extended to include marine areas.
+
 ## About our App
   
 ## Geospatial Open Data Sources
