@@ -14,7 +14,7 @@ Table 1. Geospatial datasets used in analysis
 | <b>Dataset</b> | <b>Data Source</b> | <b>Data Type</b>
 | --- | --- | --- |
 | BC Province Boundary | <a href="https://open.canada.ca/data/en/dataset/a883eb14-0c0e-45c4-b8c4-b54c4a819edb">Statistics Canada</a> | Polygon |
-| Ecosections | datasource | Polygon |
+| Ecosections | <a href="https://catalogue.data.gov.bc.ca/dataset/ccc01f43-860d-4583-8ba4-e72d8379441e">BC Open Data</a> | Polygon |
 | Protected and Conserved Areas | datasource | Polygon |
 | Land Use Classification BC | datasource | Raster |
 | Species at Risk (Critical Habitat) | datasource | Polygon |
