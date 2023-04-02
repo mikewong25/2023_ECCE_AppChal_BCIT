@@ -24,6 +24,7 @@ Table 1. Geospatial datasets used in analysis
 | Species Richness | See Table 2. Observation Datasets | Point/Polygon |
 | Rivers | <a href="https://catalogue.data.gov.bc.ca/dataset/freshwater-atlas-rivers">GeoBC</a> | Polygon |
 | Wetlands | <a href="https://catalogue.data.gov.bc.ca/dataset/freshwater-atlas-wetlands">GeoBC</a> | Polygon |
+| Biogeoclimatic Ecosystem Classification (BEC) | <a href="https://catalogue.data.gov.bc.ca/dataset/f358a53b-ffde-4830-a325-a5a03ff672c3">Forest Analysis and Inventory Branch</a> | Polygon |
 
 Table 2. Observation Datasets
 | <b>Dataset</b> | <b>Data Source</b> | <b>Data Type</b>
