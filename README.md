@@ -1,4 +1,4 @@
-# Team BCIT WTW Introduction
+# Team GeoJam Introduction
 
 ## Team
 - Junior Thiensirisak
@@ -19,7 +19,7 @@ Table 1. Geospatial datasets used in analysis
 | BC Province Boundary | <a href="https://open.canada.ca/data/en/dataset/a883eb14-0c0e-45c4-b8c4-b54c4a819edb">Statistics Canada</a> | Polygon |
 | Ecosections | <a href="https://catalogue.data.gov.bc.ca/dataset/ccc01f43-860d-4583-8ba4-e72d8379441e">Government of British Columbia</a> | Polygon |
 | Protected and Conserved Areas | <a href="https://open.canada.ca/data/en/dataset/6c343726-1e92-451a-876a-76e17d398a1c">Environment and Climate Change Canada</a> | Polygon |
-| Land Use Classification BC | <a href="https://catalogue.data.gov.bc.ca/dataset/baseline-thematic-mapping-present-land-use-version-1-spatial-layer">GeoBC</a> | Raster |
+| Land Use Classification BC | <a href="https://catalogue.data.gov.bc.ca/dataset/baseline-thematic-mapping-present-land-use-version-1-spatial-layer">GeoBC</a> | Polygon |
 | Species at Risk (Critical Habitat) | <a href="https://open.canada.ca/data/en/dataset/47caa405-be2b-4e9e-8f53-c478ade2ca74">Environment and Climate Change Canada</a> | Polygon |
 | Species Richness | See Table 2. Observation Datasets | Point/Polygon |
 | Rivers | <a href="https://catalogue.data.gov.bc.ca/dataset/freshwater-atlas-rivers">GeoBC</a> | Polygon |
@@ -37,6 +37,5 @@ Table 2. Observation Datasets
 | SPI Incidental Observations - Non-Secured | <a href="https://catalogue.data.gov.bc.ca/dataset/wildlife-species-inventory-incidental-observations-non-secured">Ministry of Environment and Climate Change Strategy</a> | Point |
 | SPI Incidental Observations - Non-Sensitive | <a href="https://catalogue.data.gov.bc.ca/dataset/wildlife-species-inventory-telemetry-observations-non-sensitive">Ministry of Environment and Climate Change Strategy</a> | Point |
 | CDC Element Occurrences: Species and Ecosystems at Risk - Publicly Available Occurrences | <a href="https://catalogue.data.gov.bc.ca/dataset/species-and-ecosystems-at-risk-publicly-available-occurrences-cdc">BC Conservation Data Centre</a> | Polygon |
-| CDC Element Occurrences: Species and Ecosystems at Risk (Masked Secured) | <a href="https://catalogue.data.gov.bc.ca/dataset/species-and-ecosystems-at-risk-masked-secured-publicly-available-occurrences-cdc">BC Conservation Data Centre</a> | Polygon |
 
 ## References
