@@ -1,4 +1,4 @@
-# Team GeoJam Introduction
+# Conservation Suitability Explorer (CSE) by GeoJam
 
 ## Team
 - Junior Thiensirisak
