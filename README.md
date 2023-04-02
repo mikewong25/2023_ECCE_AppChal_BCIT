@@ -39,3 +39,11 @@ Table 2. Observation Datasets
 | CDC Element Occurrences: Species and Ecosystems at Risk - Publicly Available Occurrences | <a href="https://catalogue.data.gov.bc.ca/dataset/species-and-ecosystems-at-risk-publicly-available-occurrences-cdc">BC Conservation Data Centre</a> | Polygon |
 
 ## References
+
+### Online Articles & Websites
+
+### Images
+1. Salmo River, British Columbia, Canada https://unsplash.com/photos/wSQC9RRRn3Q 
+2. Glacier National Park, British Columbia, Canada https://unsplash.com/photos/u5DNyk9LGIU
+3. Emerald Lake in British Columbia, Canada https://www.pexels.com/photo/emerald-lake-in-british-columbia-canada-7276973/
+4. Green Trees Under Cloudy Sky https://www.pexels.com/photo/california-clouds-dawn-dusk-414528/ 
