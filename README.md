@@ -41,9 +41,36 @@ Table 2. Observation Datasets
 ## References
 
 ### Online Articles & Websites
+1. Canadian Protected and Conserved Areas Database https://www.canada.ca/en/environment-climate-change/services/national-wildlife-areas/protected-conserved-areas-database.html
+2. Canada's conserved areas https://www.canada.ca/en/environment-climate-change/services/environmental-indicators/conserved-areas.html
+3. Conservation Lands https://www2.gov.bc.ca/gov/content/environment/plants-animals-ecosystems/wildlife/wildlife-habitats/conservation-lands
+4. Ecological criteria to identify areas for biodiversity conservation https://www.sciencedirect.com/science/article/abs/pii/S000632071630533X
+5. Government of Canada recognizing federal land and water to contribute to 30 by 30 nature conservation goals https://www.canada.ca/en/environment-climate-change/news/2022/12/government-of-canada-recognizing-federal-land-and-water-to-contribute-to-30-by-30-nature-conservation-goals.html
+6. Healthcare pulling ahead as top issue of concern https://nanos.co/wp-content/uploads/2023/01/Political-Package-2022-12-30-FR-with-tabs-with-ballot.pdf
+7. Relative efforts of countries to conserve world’s megafauna https://www.sciencedirect.com/science/article/pii/S2351989416300804
+8. Synthesis Report of the IPCC Sixth Assessment Report (AR6) https://report.ipcc.ch/ar6syr/pdf/IPCC_AR6_SYR_SPM.pdf
+9. Taking Nature's Pulse The Status of Biodiversity in British Columbia http://www.biodiversitybc.org/assets/pressReleases/BBC_StatusReport_Web_final.pdf
+10. Threats to Biodiversity https://www.naturetrust.bc.ca/conserving-land/threats-to-biodiversity
 
 ### Images
 1. Salmo River, British Columbia, Canada https://unsplash.com/photos/wSQC9RRRn3Q 
 2. Glacier National Park, British Columbia, Canada https://unsplash.com/photos/u5DNyk9LGIU
 3. Emerald Lake in British Columbia, Canada https://www.pexels.com/photo/emerald-lake-in-british-columbia-canada-7276973/
 4. Green Trees Under Cloudy Sky https://www.pexels.com/photo/california-clouds-dawn-dusk-414528/ 
+5. Technological Sense Geometric Line Simple Background https://pngtree.com/freebackground/technological-sense-geometric-line-simple_932581.html 
+6. Treetops https://unsplash.com/photos/3SYi9YfTXdU 
+
+### Videos
+1. Aerial View of Forest https://www.pexels.com/video/aerial-view-of-forest-2491282/
+2. An Aerial View of Coniferous Trees https://www.pexels.com/video/an-aerial-view-of-coniferous-trees-1437396/
+3. Floating Ice on the River https://www.pexels.com/video/floating-ice-on-the-river-7104919/ 
+4. Time Lapse Video of a City and Buildings https://www.pexels.com/video/floating-ice-on-the-river-7104919/
+5. Planet Earth In Close Up View https://www.pexels.com/video/planet-earth-in-close-up-view-4478322/
+6. Two Men Shaking Each Others Hand https://www.pexels.com/video/man-hands-working-cafe-4428752/
+7. Drone Footage of a Beautiful Lake https://www.pexels.com/video/drone-footage-of-a-beautiful-lake-7226223/
+8. Video Of Forest https://www.pexels.com/video/video-of-forest-1448735/
+9. Video Of Canada's Flag On A Windy Day https://www.pexels.com/video/video-of-canada-s-flag-on-a-windy-day-4262794/
+
+### Music
+1. Bird's forest https://pixabay.com/music/meditationspiritual-birds39-forest-20772/
+
