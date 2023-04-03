@@ -21,6 +21,8 @@ The Conservation Suitability Explorer aims to inform decision makers and conserv
 ### The Map: Default View
 The default view presents users with a bivariate map (which is just a fancy way of saying it combines two variables that are symbolized with separate colour scales) that combines two datasets, “Average Conservation Suitability” and “Unconserved Area”. The data is summarized into the 137 terrestrial ecosections of BC. The bivariate visualization method allows us to easily identify the attributes of an ecosection by its colour (see colour scheme below). Areas that have high amounts of unconserved area are orange and areas with high average conservation suitability values are blue. Areas that have high values of both variables will be green and represent the ecosections with the highest potential for claiming new conservation lands.
 
+![UserGuide01_BivariateColourScale](./images/UserGuide01_BivariateColourScale.png)
+
 Selecting an ecosection on the map will give a popup window of the ecosections attributes. It is highly recommended to press the “dock” button in the top right corner of the popup to keep it off to the side but still fully visible (see below, highlighted in blue). 
 
 The following attributes are displayed in the popup:
