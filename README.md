@@ -40,6 +40,9 @@ Table 2. Observation Datasets
 
 ## References
 
+### Organizations
+1. The Nature Trust of British Columbia, Danielle Morrison https://www.naturetrust.bc.ca/
+
 ### Online Articles & Websites
 1. Canadian Protected and Conserved Areas Database https://www.canada.ca/en/environment-climate-change/services/national-wildlife-areas/protected-conserved-areas-database.html
 2. Canada's conserved areas https://www.canada.ca/en/environment-climate-change/services/environmental-indicators/conserved-areas.html
