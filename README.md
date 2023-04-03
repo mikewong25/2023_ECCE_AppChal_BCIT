@@ -70,7 +70,7 @@ Due to the scale and density at which the conservation suitability analysis was 
 To perform the conservation suitability analysis using the obtained datasets, we first had to convert them into common data types. The majority of data collected were in a vector format and needed to be converted to raster datasets as they are more appropriate for suitability analysis. This section discusses the general methodology, strategy, and logic used to process data and conduct the analyses for our project. We also discuss limitations and areas where there is room for improvement.
 
 ### Percentage of Protected and Conserved Lands
-	This layer was created in order to assist us in determining which ecosections have potential to increase their protected and conserved land area by examining the ecosections with a low percentage of current protected and conserved land area. To determine the percentages, the Ecosection and Protected/Conserved Area polygons are required. This is procedure we created to determine those values:
+This layer was created in order to assist us in determining which ecosections have potential to increase their protected and conserved land area by examining the ecosections with a low percentage of current protected and conserved land area. To determine the percentages, the Ecosection and Protected/Conserved Area polygons are required. This is procedure we created to determine those values:
 1. Intersect the Ecosections and Protected/Conserved Lands 
 2. Summarize Within for Ecosections with the Intersected Layer, summing the shape area
 3. Calculate Field to get percentages of Protected/Conserved Lands within each Ecosection
