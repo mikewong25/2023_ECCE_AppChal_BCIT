@@ -106,9 +106,11 @@ Once the raster layers were prepared, we normalized the data to have raster valu
 
 ### Limitations
 **Technical**
+
 Since our analysis is based on rasters, it was difficult for us to upload these features onto ArcGIS Online as a layer. To work around this issue, we decided it was best to convert all our rasters back into polygons. This involved the Raster to Polygon tool on the final suitability raster we created. The resolution of our analysis resulted in performance intensive features after being converted into polygons. To display the full details of our conservation suitability analysis while maintaining reasonable performance and load times, the data was split into individual ecosections. Detailed conservation suitability maps are available for each ecosection, links are provided in the attribute table and popup window in the main CSE app.	
 
 **Methodology**
+
 After reviewing scholarly articles and consulting with experts in the field, we concluded that other conservation criteria could be included to make the analysis more robust. However, due to limitations related to time and data access, we were not able to conduct analysis on the following:
 Biogeoclimatic Zones at Risk
 Underrepresented Ecosystems
