@@ -41,7 +41,7 @@ Table 2. Observation Datasets
 ## References
 
 ### Organizations
-1. We would like to thank The Nature Trust of British Columbia for their input on the selection of datasets and conservation lands https://www.naturetrust.bc.ca/
+1. We would like to thank The Nature Trust of British Columbia for their input on the selection of datasets and conservation suitability https://www.naturetrust.bc.ca/
 
 ### Online Articles & Websites
 1. Canadian Protected and Conserved Areas Database https://www.canada.ca/en/environment-climate-change/services/national-wildlife-areas/protected-conserved-areas-database.html
