@@ -2,7 +2,7 @@
 
 ## Team Bios:
 
-[!TeamPhoto](./2023_ECCE_AppCHal_BCIT/images/GeoJAM_GroupPhoto.jpeg)
+![TeamPhoto](./images/GeoJAM_GroupPhoto.jpeg)
 
 Left: Junior, Middle: Michael, Right: Anthony
 
