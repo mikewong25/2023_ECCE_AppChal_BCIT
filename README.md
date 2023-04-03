@@ -25,7 +25,11 @@ The default view presents users with a bivariate map (which is just a fancy way 
 
 Selecting an ecosection on the map will give a popup window of the ecosections attributes. It is highly recommended to press the “dock” button in the top right corner of the popup to keep it off to the side but still fully visible (see below, highlighted in blue). 
 
+![UserGuide02_DockButton](./Images/UserGuide02_DockButton.png)
+
 The following attributes are displayed in the popup:
+
+![UserGuide03_Popup](./Images/UserGuide03_Popup.png)
 
 The Ecosection Name and Ecosection Code fields contain the name and code for each ecosection.
 
@@ -39,13 +43,20 @@ The Detailed Suitability Map Link field contains a link to a detailed map for an
 
 The map has a total of four layers, three of which are hidden by default. Use the “Map Layers” widget to toggle the visibility of each layer by clicking the eye icon. You can also click the three dots to the right of a layer to modify the transparency of a layer. Changing the transparency will allow you to see what the surface of an ecosection actually looks like.
 
+![UserGuide04_Transparency](./Images/UserGuide04_Transparency.png)
+
 Layer visibility may also be toggled through the “Layers” button (highlighted in blue below) in the top left.
+
+![UserGuide05_LayersButton](./Images/UserGuide05_LayersButton.png)
 
 The “Protected and Conserved Areas” layer is hidden by default but is very useful to toggle on. With it on (it will display as a bright green) you can see what areas are currently conserved in BC. Attributes for this layer include the “Name”, “Enabling Mechanisms”, and “Designation Type” of the protected/conserved area.
 
 The “Average Conservation Suitability by Ecosection” and “Unconserved Area by Ecosection” are the two layers that make up the bivariate map. These are presented here in separate layers so that they may be viewed individually.
 
 To view the legend and colour scales for the visible layers, click on the previously mentioned “layers” button and switch to the legend tab.
+
+![UserGuide06_Layers](./Images/UserGuide06_Layers.png)
+![UserGuide07_Legend](./Images/UserGuide07_Legend.png)
 
 ### The Map: Filter Tools and Basemap Options
 
@@ -54,7 +65,11 @@ Filters for Average Conservation Suitability, Unconserved Area, and Conserved Ar
 * Average Conservation Suitability by Ecosection: “Suitability Layer Filter”
 * Unconserved Area by Ecosection: “Unconserved Layer Filter”
 
+![UserGuide08_Filters](./Images/UserGuide08_Filters.png)
+
 Enter values for the bottom and top of the range and then toggle the switch to apply the filter. This is convenient if you only want to see ecosection with certain ranges of attributes. For example, you could filter the average suitability from 15 to 21 and the unconserved area from 90 to 100 to only see areas with highest potential for conservation. We recommend changing the basemap from the default “Imagery Hybrid” to the “Dark Gray Canvas” when using filters for increased contrast, this can be done using the “Basemap” button in the top left (highlighted in blue below). You may also change the basemap to whatever suits your needs.
+
+![UserGuide09_Basemap](./Images/UserGuide09_Basemap.png)
 
 ### The Table
 
@@ -67,6 +82,8 @@ The vertical height of the map/table can be adjusted by grabbing and dragging th
 ### The Detailed Conservation Suitability Maps
 
 Due to the scale and density at which the conservation suitability analysis was performed, the detailed maps have been separated into individual maps for each ecosection for performance reasons. Each of these maps shares the same colour scale for consistency. In addition to the conservation suitability values, the individual maps contain the data for Protected and Conserved Areas; use the layers tab to access the layer visibility toggle.
+
+![UserGuide10_Detailed](./Images/UserGuide10_Detailed.png)
 
 ## Project Methodology and Strategy
 To perform the conservation suitability analysis using the obtained datasets, we first had to convert them into common data types. The majority of data collected were in a vector format and needed to be converted to raster datasets as they are more appropriate for suitability analysis. This section discusses the general methodology, strategy, and logic used to process data and conduct the analyses for our project. We also discuss limitations and areas where there is room for improvement.
